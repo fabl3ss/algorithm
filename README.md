@@ -28,4 +28,4 @@ When starting the program, the user sees a visual diagram of the program display
 User can select **size** of array, and choose one of eight colors to display.
 
 ### Execution example
-<img align="center" width="50%" height="50%" src="https://github.com/fabl3ss/algorithm/blob/main/static/readme/gifs/template.gif">
+<img align="center" width="70%" height="70%" src="https://github.com/fabl3ss/algorithm/blob/main/static/readme/gifs/template.gif">
